@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on several Java projects.
+- :coffee: Java, Spring, JakartaEE and Angular Fan
 - 📫 How to reach me: www.harshajayamanna.com
+- :cloud: I'm a [AWS Certified Developer – Associate](https://www.youracclaim.com/badges/8766f468-1e3d-41de-9ee9-eeabc1316e0c/public_url)
+
 
 <!--
 **h-hub/h-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
