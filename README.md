@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 :computer:
 
 - 🔭 I’m currently working on several Java projects.
 - :coffee: Java, Spring, JakartaEE and Angular
 - 📫 How to reach me: www.harshajayamanna.com
 - :cloud: I'm an [AWS Certified Developer – Associate](https://www.youracclaim.com/badges/8766f468-1e3d-41de-9ee9-eeabc1316e0c/public_url)
+- :blue_heart: Find me on twitter -> [@HarshaCodes](https://twitter.com/HarshaCodes)
 
 
 <!--
